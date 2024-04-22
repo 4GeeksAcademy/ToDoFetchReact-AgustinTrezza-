@@ -27,7 +27,7 @@
     margin: auto;
     padding: 2px;
     border-radius: 20px;
-    margin-top: 7rem;
+    margin-top: 3rem;
 }
 
 .container-tareas {
@@ -106,4 +106,17 @@
         color: #3a8aff;
         font-weight: 300;
     }
+}
+
+/* .boton-eliminar-todas {
+    padding: 1rem!important;
+    margin-bottom: 3rem;
+    font-size: 200;
+    color: #ff3838;
+    border: 1px solid #ff3838;
+    background-color: rgb(252, 252, 252);
+} */
+
+.user-icon {
+    color: grey!important;
 }
